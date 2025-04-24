@@ -2,7 +2,7 @@
 Analysis of Adidas Sales using Power BI
 
 Screenshot:
-![Image Alt]([image_url](https://github.com/jim11br/Sales-Analysis/blob/main/data_analysis.png?raw=true))
+![Image Alt]([image_url](https://github.com/jim11br/Sales-Analysis/blob/c249c775e83434978f6975a66173b23e359ff7a7/data_analysis.png))
 
 
 1. Total Sales by Month (Area Chart):
